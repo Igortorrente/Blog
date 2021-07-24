@@ -1,0 +1,9 @@
+blog/*.gem
+blog/.bundle
+blog/.sass-cache
+blog/_site
+blog/Gemfile.lock
+blog/.jekyll-cache
+.lvimrc
+*.sh
+*.swp
