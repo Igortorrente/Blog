@@ -1,2 +1,2 @@
-# caedrium_blog
+# Caedrium blog
 Repository of Caedrium Blog
